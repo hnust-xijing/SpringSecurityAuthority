@@ -1,0 +1,6 @@
+基于spring security的简单权限管理
+权限/index ADMIN或者USER这两种角色都可以访问
+权限/admin 需要ADMIN这个角色就可以访问
+
+user用户拥有USER角色
+admin用户拥有ADNIN和USER角色
